@@ -1,0 +1,7 @@
+name: Codimth Custom Rules Condition
+description: Create a custom rules condition
+package: CodimTh
+type: module
+core: 8.x
+dependencies:
+  - rules
